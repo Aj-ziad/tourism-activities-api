@@ -1,0 +1,42 @@
+{
+  "Activity": {
+    "id": { "int": { "min": 1, "max": 100 } },
+    "title": {
+      "string": [
+        "Camel Ride in the Desert",
+        "Quad Biking Adventure",
+        "Horse Riding in Palmeraie",
+        "Jet Ski Beach Adventure",
+        "Desert Buggy Experience",
+        "Sunset Quad & Camel Combo"
+      ]
+    },
+    "description": {
+      "string": [
+        "Experience the golden dunes of Agadir on a guided camel tour", 
+        "Explore rugged desert trails and enjoy high-speed thrills",
+        "Enjoy a peaceful horse ride through palm groves",
+        "Feel the adrenaline rush on powerful jet skis",
+        "Navigate through sand dunes in desert buggies",
+        "Ultimate desert experience combining quad and camel"
+      ]
+    },
+    "image": {
+      "string": [
+        "https://images.unsplash.com/photo-1539650116574-75c0c6d36a28?w=500&h=300&fit=crop",
+        "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=500&h=300&fit=crop",
+        "https://images.unsplash.com/photo-1553284965-83fd3e82fa5a?w=500&h=300&fit=crop",
+        "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=500&h=300&fit=crop",
+        "https://images.unsplash.com/photo-1607113515847-a2c3db735b47?w=500&h=300&fit=crop",
+        "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=500&h=300&fit=crop"
+      ]
+    },
+    "price": { "string": ["€35", "€55", "€30", "€70", "€75", "€100"] },
+    "basePrice": { "string": ["€29", "€49", "€25", "€60", "€65", "€85"] },
+    "duration": { "string": ["2 Hours", "1.5 Hours", "1 Hour", "30 Minutes", "2 Hours", "4 Hours"] },
+    "type": { "string": ["Desert Safari", "Adventure", "Adventure", "Water Sports", "Adventure", "Adventure"] },
+    "reviews": { "int": { "min": 50, "max": 300 } },
+    "rating": { "float": { "min": 3.5, "max": 5.0 } },
+    "location": { "string": ["Agadir", "Agadir", "Agadir", "Agadir", "Agadir", "Agadir"] }
+  }
+}
