@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "title": "Camel Ride in the Desert",
+    "description": "Experience the golden dunes of Agadir on a guided camel tour",
+    "image": "https://images.unsplash.com/photo-1539650116574-75c0c6d36a28?w=500&h=300&fit=crop",
+    "price": "€35",
+    "basePrice": "€29",
+    "duration": "2 Hours",
+    "type": "Desert Safari",
+    "reviews": 124,
+    "rating": 4.5,
+    "location": "Agadir"
+  },
+  {
+    "id": 2,
+    "title": "Quad Biking Adventure",
+    "description": "Explore rugged desert trails and enjoy high-speed thrills",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=500&h=300&fit=crop",
+    "price": "€55",
+    "basePrice": "€49",
+    "duration": "1.5 Hours",
+    "type": "Adventure",
+    "reviews": 98,
+    "rating": 4.2,
+    "location": "Agadir"
+  },
+  {
+    "id": 3,
+    "title": "Horse Riding in Palmeraie",
+    "description": "Enjoy a peaceful horse ride through palm groves",
+    "image": "https://images.unsplash.com/photo-1553284965-83fd3e82fa5a?w=500&h=300&fit=crop",
+    "price": "€30",
+    "basePrice": "€25",
+    "duration": "1 Hour",
+    "type": "Adventure",
+    "reviews": 150,
+    "rating": 4.7,
+    "location": "Agadir"
+  },
+  {
+    "id": 4,
+    "title": "Jet Ski Beach Adventure",
+    "description": "Feel the adrenaline rush on powerful jet skis",
+    "image": "https://images.unsplash.com/photo-1544551763-46a013bb70d5?w=500&h=300&fit=crop",
+    "price": "€70",
+    "basePrice": "€60",
+    "duration": "30 Minutes",
+    "type": "Water Sports",
+    "reviews": 200,
+    "rating": 4.3,
+    "location": "Agadir"
+  },
+  {
+    "id": 5,
+    "title": "Desert Buggy Experience",
+    "description": "Navigate through sand dunes in desert buggies",
+    "image": "https://images.unsplash.com/photo-1607113515847-a2c3db735b47?w=500&h=300&fit=crop",
+    "price": "€75",
+    "basePrice": "€65",
+    "duration": "2 Hours",
+    "type": "Adventure",
+    "reviews": 175,
+    "rating": 4.6,
+    "location": "Agadir"
+  },
+  {
+    "id": 6,
+    "title": "Sunset Quad & Camel Combo",
+    "description": "Ultimate desert experience combining quad and camel",
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=500&h=300&fit=crop",
+    "price": "€100",
+    "basePrice": "€85",
+    "duration": "4 Hours",
+    "type": "Adventure",
+    "reviews": 300,
+    "rating": 4.9,
+    "location": "Agadir"
+  }
+]
