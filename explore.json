@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "location": "Taghazout Bay",
+    "type": "Villa Deluxe",
+    "residence_name": "Tamda",
+    "image_url": "https://taghazoutbay.ma/uploads/proprietaires/logo/21e869b009be89fda73253f122a423525212eec0.png"
+  },
+  {
+    "id": 2,
+    "location": "Taghazout Bay",
+    "type": "Apartment Deluxe",
+    "residence_name": "Amda",
+    "image_url": "https://www.taghazoutbay.ma/uploads/proprietaires/logo/5f020d951f75ec83dc28570410bc2b815c958789.png"
+  },
+  {
+    "id": 3,
+    "location": "Taghazout Bay",
+    "type": "Apartment in Taghazout bay, Sea&Golf view.",
+    "residence_name": "Appartement Taourirt Agadir",
+    "image_url": "https://taghazoutbay.ma/assets/img/logo.png"
+  },
+  {
+    "id": 4,
+    "location": "Agadir",
+    "type": "Apartment Deluxe",
+    "residence_name": "Marina Agadir",
+    "image_url": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f3/c1/7a/marina-d-agadir.jpg?w=700&h=400&s=1"
+  },
+  {
+    "id": 5,
+    "location": "Agadir",
+    "type": "Apartment Deluxe",
+    "residence_name": "Agadir bay",
+    "image_url": "https://images.seeklogo.com/logo-png/48/1/agadir-bay-logo-png_seeklogo-489940.png"
+  },
+  {
+    "id": 6,
+    "location": "Taghazout ",
+    "type": "Villa & Apartment Deluxe",
+    "residence_name": "Taghazout",
+    "image_url": "https://seeklogo.com/images/T/taghazout-bay-logo-C352CE0506-seeklogo.com.png"
+  }
+
+]
