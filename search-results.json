@@ -2,10 +2,10 @@
   {
     "id": 1,
     "img": [
-      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357244687.jpg",
-      "https://a0.muscache.com/im/pictures/hosting/Hosting-1099209908265455021/original/7185aaa6-bd49-4e86-9592-bed4ea729af1.jpeg",
-      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/675114813.jpg",
-      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f3/c1/7a/marina-d-agadir.jpg"
+      "https://taghazoutbay.ma/uploads/proprietaires/5d2319c3be7a6d81c19b2384176f444dffcf6a5b.jpg",
+      "https://taghazoutbay.ma/uploads/proprietaires/ca71a0325e4603baa2100cc9f1a6ea3c28f6acb3.jpg",
+      "https://taghazoutbay.ma/uploads/proprietaires/0635c30482896b34289890916d9e181d25c841c0.jpg",
+      "https://taghazoutbay.ma/uploads/proprietaires/0ba4ff2ed9a2cf296d39ce008233e1747c1c0cdb.jpg"
     ],
     "location": "Villa Deluxe in Taghazout Bay",
     "title": "Tamda Villa",
@@ -19,10 +19,10 @@
   {
     "id": 2,
     "img": [
-      "https://a0.muscache.com/im/pictures/hosting/Hosting-1099209908265455021/original/7185aaa6-bd49-4e86-9592-bed4ea729af1.jpeg",
-      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/675114813.jpg",
-      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f3/c1/7a/marina-d-agadir.jpg",
-      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357244687.jpg"
+      "https://taghazoutbay.ma/uploads/proprietaires/0ba4ff2ed9a2cf296d39ce008233e1747c1c0cdb.jpg",
+      "https://taghazoutbay.ma/uploads/proprietaires/0635c30482896b34289890916d9e181d25c841c0.jpg",
+      "https://taghazoutbay.ma/uploads/proprietaires/ca71a0325e4603baa2100cc9f1a6ea3c28f6acb3.jpg",
+      "https://taghazoutbay.ma/uploads/proprietaires/5d2319c3be7a6d81c19b2384176f444dffcf6a5b.jpg"
     ],
     "location": "Apartment Deluxe in Taghazout Bay",
     "title": "Amda Residence",
@@ -36,10 +36,10 @@
   {
     "id": 3,
     "img": [
-      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/675114813.jpg",
-      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f3/c1/7a/marina-d-agadir.jpg",
-      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357244687.jpg",
-      "https://a0.muscache.com/im/pictures/hosting/Hosting-1099209908265455021/original/7185aaa6-bd49-4e86-9592-bed4ea729af1.jpeg"
+      "https://taghazoutbay.ma/uploads/proprietaires/0635c30482896b34289890916d9e181d25c841c0.jpg",
+      "https://taghazoutbay.ma/uploads/proprietaires/5d2319c3be7a6d81c19b2384176f444dffcf6a5b.jpg",
+      "https://taghazoutbay.ma/uploads/proprietaires/0ba4ff2ed9a2cf296d39ce008233e1747c1c0cdb.jpg",
+      "https://taghazoutbay.ma/uploads/proprietaires/ca71a0325e4603baa2100cc9f1a6ea3c28f6acb3.jpg"
     ],
     "location": "Sea View Apartment in Taghazout",
     "title": "Taourirt Agadir",
@@ -53,10 +53,10 @@
   {
     "id": 4,
     "img": [
-      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f3/c1/7a/marina-d-agadir.jpg",
-      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357244687.jpg",
-      "https://a0.muscache.com/im/pictures/hosting/Hosting-1099209908265455021/original/7185aaa6-bd49-4e86-9592-bed4ea729af1.jpeg",
-      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/675114813.jpg"
+      "https://taghazoutbay.ma/uploads/proprietaires/ca71a0325e4603baa2100cc9f1a6ea3c28f6acb3.jpg",
+      "https://taghazoutbay.ma/uploads/proprietaires/0ba4ff2ed9a2cf296d39ce008233e1747c1c0cdb.jpg",
+      "https://taghazoutbay.ma/uploads/proprietaires/5d2319c3be7a6d81c19b2384176f444dffcf6a5b.jpg",
+      "https://taghazoutbay.ma/uploads/proprietaires/0635c30482896b34289890916d9e181d25c841c0.jpg"
     ],
     "location": "Luxury Apartment in Marina Agadir",
     "title": "Marina Agadir",
@@ -66,5 +66,75 @@
     "total": "£770 total",
     "long": -9.598107,
     "lat": 30.427755
+  },
+  {
+    "id": 5,
+    "img": [
+      "https://taghazoutbay.ma/uploads/proprietaires/0ba4ff2ed9a2cf296d39ce008233e1747c1c0cdb.jpg",
+      "https://taghazoutbay.ma/uploads/proprietaires/ca71a0325e4603baa2100cc9f1a6ea3c28f6acb3.jpg",
+      "https://taghazoutbay.ma/uploads/proprietaires/5d2319c3be7a6d81c19b2384176f444dffcf6a5b.jpg",
+      "https://taghazoutbay.ma/uploads/proprietaires/0635c30482896b34289890916d9e181d25c841c0.jpg"
+    ],
+    "location": "Beachfront Villa in Taghazout",
+    "title": "Surf Haven Villa",
+    "description": "6 guests · 3
+
+ bedrooms · 3 beds · 2 bathrooms · Wifi · Kitchen · Beach access",
+    "star": 4.85,
+    "price": "£180 / night",
+    "total": "£1260 total",
+    "long": -9.600123,
+    "lat": 30.429876
+  },
+  {
+    "id": 6,
+    "img": [
+      "https://taghazoutbay.ma/uploads/proprietaires/5d2319c3be7a6d81c19b2384176f444dffcf6a5b.jpg",
+      "https://taghazoutbay.ma/uploads/proprietaires/0635c30482896b34289890916d9e181d25c841c0.jpg",
+      "https://taghazoutbay.ma/uploads/proprietaires/ca71a0325e4603baa2100cc9f1a6ea3c28f6acb3.jpg",
+      "https://taghazoutbay.ma/uploads/proprietaires/0ba4ff2ed9a2cf296d39ce008233e1747c1c0cdb.jpg"
+    ],
+    "location": "Cozy Apartment in Agadir",
+    "title": "Sunset Retreat",
+    "description": "2 guests · 1 bedroom · 1 bed · 1 bathroom · Wifi · Balcony",
+    "star": 4.5,
+    "price": "£80 / night",
+    "total": "£560 total",
+    "long": -9.605432,
+    "lat": 30.425987
+  },
+  {
+    "id": 7,
+    "img": [
+      "https://taghazoutbay.ma/uploads/proprietaires/0635c30482896b34289890916d9e181d25c841c0.jpg",
+      "https://taghazoutbay.ma/uploads/proprietaires/0ba4ff2ed9a2cf296d39ce008233e1747c1c0cdb.jpg",
+      "https://taghazoutbay.ma/uploads/proprietaires/5d2319c3be7a6d81c19b2384176f444dffcf6a5b.jpg",
+      "https://taghazoutbay.ma/uploads/proprietaires/ca71a0325e4603baa2100cc9f1a6ea3c28f6acb3.jpg"
+    ],
+    "location": "Modern Villa in Taghazout Bay",
+    "title": "Ocean Breeze Villa",
+    "description": "5 guests · 3 bedrooms · 3 beds · 2.5 bathrooms · Wifi · Pool · Free parking",
+    "star": 4.9,
+    "price": "£200 / night",
+    "total": "£1400 total",
+    "long": -9.599876,
+    "lat": 30.428654
+  },
+  {
+    "id": 8,
+    "img": [
+      "https://taghazoutbay.ma/uploads/proprietaires/ca71a0325e4603baa2100cc9f1a6ea3c28f6acb3.jpg",
+      "https://taghazoutbay.ma/uploads/proprietaires/5d2319c3be7a6d81c19b2384176f444dffcf6a5b.jpg",
+      "https://taghazoutbay.ma/uploads/proprietaires/0635c30482896b34289890916d9e181d25c841c0.jpg",
+      "https://taghazoutbay.ma/uploads/proprietaires/0ba4ff2ed9a2cf296d39ce008233e1747c1c0cdb.jpg"
+    ],
+    "location": "Penthouse in Marina Agadir",
+    "title": "Skyline Marina",
+    "description": "4 guests · 2 bedrooms · 2 beds · 2 bathrooms · Wifi · Rooftop terrace",
+    "star": 4.75,
+    "price": "£160 / night",
+    "total": "£1120 total",
+    "long": -9.597890,
+    "lat": 30.426543
   }
 ]
