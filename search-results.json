@@ -1,0 +1,70 @@
+[
+  {
+    "id": 1,
+    "img": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357244687.jpg",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1099209908265455021/original/7185aaa6-bd49-4e86-9592-bed4ea729af1.jpeg",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/675114813.jpg",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f3/c1/7a/marina-d-agadir.jpg"
+    ],
+    "location": "Villa Deluxe in Taghazout Bay",
+    "title": "Tamda Villa",
+    "description": "4 guests · 2 bedrooms · 2 beds · 2 bathrooms · Wifi · Kitchen · Free parking",
+    "star": 4.8,
+    "price": "£120 / night",
+    "total": "£840 total",
+    "long": -9.598107,
+    "lat": 30.427755
+  },
+  {
+    "id": 2,
+    "img": [
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1099209908265455021/original/7185aaa6-bd49-4e86-9592-bed4ea729af1.jpeg",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/675114813.jpg",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f3/c1/7a/marina-d-agadir.jpg",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357244687.jpg"
+    ],
+    "location": "Apartment Deluxe in Taghazout Bay",
+    "title": "Amda Residence",
+    "description": "2 guests · 1 bedroom · 1 bed · 1 bathroom · Wifi · Sea view",
+    "star": 4.6,
+    "price": "£90 / night",
+    "total": "£630 total",
+    "long": -9.707522,
+    "lat": 30.533371
+  },
+  {
+    "id": 3,
+    "img": [
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/675114813.jpg",
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f3/c1/7a/marina-d-agadir.jpg",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357244687.jpg",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1099209908265455021/original/7185aaa6-bd49-4e86-9592-bed4ea729af1.jpeg"
+    ],
+    "location": "Sea View Apartment in Taghazout",
+    "title": "Taourirt Agadir",
+    "description": "4 guests · 2 bedrooms · 2 beds · 1.5 bathrooms · Wifi · Pool",
+    "star": 4.9,
+    "price": "£150 / night",
+    "total": "£1050 total",
+    "long": -9.598107,
+    "lat": 30.427755
+  },
+  {
+    "id": 4,
+    "img": [
+      "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1a/f3/c1/7a/marina-d-agadir.jpg",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/357244687.jpg",
+      "https://a0.muscache.com/im/pictures/hosting/Hosting-1099209908265455021/original/7185aaa6-bd49-4e86-9592-bed4ea729af1.jpeg",
+      "https://cf.bstatic.com/xdata/images/hotel/max1024x768/675114813.jpg"
+    ],
+    "location": "Luxury Apartment in Marina Agadir",
+    "title": "Marina Agadir",
+    "description": "3 guests · 1 bedroom · 2 beds · 1 bathroom · Wifi · Gym access",
+    "star": 4.7,
+    "price": "£110 / night",
+    "total": "£770 total",
+    "long": -9.598107,
+    "lat": 30.427755
+  }
+]
